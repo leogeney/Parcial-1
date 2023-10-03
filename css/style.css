@@ -1,0 +1,66 @@
+body{
+    background-color: gray;
+}
+
+.container{
+    text-align: initial;
+    border-radius: 10%;
+}
+
+.c1{
+    border: 1px solid #ccc;
+            background-color: #fff;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+
+    
+}
+.c2{
+    border: 1px solid #ccc;
+            background-color: #fff;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+    
+    
+}
+
+.c3{
+    border: 1px solid #ccc;
+            background-color: #fff;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+    
+    
+}
+.c4{
+    
+        border: 1px solid #ccc;
+                background-color: #fff;
+                margin: 10px;
+                padding: 10px;
+                border-radius: 5px;
+        
+        
+   
+}
+
+p{
+    margin-left: 20%;
+    
+}
+
+button{
+    background-color: dodgerblue;
+    color: white;
+    font-size: larger;
+    size: 10px;
+    border: none;
+    border-radius: 2%;
+    margin-left: 1% ;
+}
+
+
+
